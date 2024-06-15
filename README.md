@@ -1,6 +1,6 @@
-## Live Coding Challenge by theSeniorDev
+# Live Coding Challenge by theSeniorDev
 
-### Part 1
+### Part 1 - implement the `promisify` function
 
 Write a function that mimics the behaviour of the `promisify` function in Node.js. The function should take a function that accepts a callback as its last argument and return a new function that returns a promise. Example usage:
 
@@ -13,7 +13,7 @@ const readFile = promisify(fs.readFile);
 readFile("README.md", "utf8").then(console.log).catch(console.error);
 ```
 
-### Part 2
+### Part 2 - Modify the function to work with `async/await`
 
 Modify the function from Part 1 so it works with `async/await` as well. Example usage:
 
