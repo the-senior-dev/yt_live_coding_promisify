@@ -38,3 +38,7 @@ const readFile = promisify(fs.readFile);
 - How are promises treated by the event loop in comparison to callbacks?
 - Why is `error` the first argument in Node.js callbacks?
 - What is the impact of using `Promises` in terms of performance?
+
+---
+
+Made with ❤️ by theSeniorDev in Berlin
