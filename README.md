@@ -41,4 +41,4 @@ const readFile = promisify(fs.readFile);
 
 ---
 
-Made with ❤️ by theSeniorDev in Berlin
+Made with ❤️ by [theSeniorDev](https://www.theseniordev.com/) in Berlin
